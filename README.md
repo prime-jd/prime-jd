@@ -1,5 +1,5 @@
 <h1 align="center"><a style="text-decorations:none; color:white" href="https://www.primejd9.wordpress.com">PRIME-JD</a></h1>
- <img align="center" height="100" width="100" src="https://res.cloudinary.com/dooks54nr/image/upload/w_1000,c_fill,ar_1:1,g_auto,r_max,bo_5px_solid_red,b_rgb:262c35/v1720105663/21156_lszxj0.jpg">
+ <img align="center" height="200" width="200" src="https://res.cloudinary.com/dooks54nr/image/upload/w_1000,c_fill,ar_1:1,g_auto,r_max,bo_5px_solid_red,b_rgb:262c35/v1720105663/21156_lszxj0.jpg">
 <h1 align="center"><a href="https://prime-jd.netlify.app">Hi, I'm Ravi Shankar Tripathi 👋</a></h1>
 
 
@@ -9,7 +9,7 @@
       <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/white">
       <img alt="GitHub" title="GitHub" height="48" width="48" src="https://cdn.simpleicons.org/github"></picture></a>
   <a href="https://www.linkedin.com/in/ravi-shankar-tripathi-536870270/">
-    <img alt="LinkedIn" title="LinkedIn"  src="https://cdn.simpleicons.org/linkedin"></a>
+    <img alt="LinkedIn" title="LinkedIn" height="48" width="48" src="https://cdn.simpleicons.org/linkedin"></a>
   <a href="https://x.com/primejd2002">
     <img alt="twitter" title="twitter" height="48" width="48" src="https://cdn.simpleicons.org/x/white"></a>
 </p>
