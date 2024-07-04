@@ -1,5 +1,5 @@
 <h1 align="center"><a style="text-decorations:none; color:white" href="https://www.primejd9.wordpress.com">PRIME-JD</a></h1>
- <img align="center" style="border-radius:50%;" src="https://res.cloudinary.com/dooks54nr/image/upload/v1720105663/21156_lszxj0.jpg">
+ <img align="center" style="border-radius:50 ;height:150; width:150; " src="https://res.cloudinary.com/dooks54nr/image/upload/v1720105663/21156_lszxj0.jpg">
 <h1 align="center"><a href="https://prime-jd.netlify.app">Hi, I'm Ravi Shankar Tripathi 👋</a></h1>
 
 
