@@ -18,7 +18,7 @@
     <img alt="Leetcode" title="Leetcode" height="48" width="48" src="https://cdn.simpleicons.org/leetcode"></a>
   <a href="https://stackoverflow.com/users/25161245/ravi-shankar-tripathi">
       <img alt="stackoverflow" title="stackoverflow" height="48" width="48" src="https://cdn.simpleicons.org/stackoverflow"></a>
-  <a href="https://www.instagram.com/prime_jd2002/?hl=en">
+  <a href="https://wordpress.com/me">
     <img alt="wordpress" title="wordpress" height="48" width="48" src="https://cdn.simpleicons.org/wordpress"></a>
 </p>
 
