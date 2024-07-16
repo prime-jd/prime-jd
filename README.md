@@ -27,6 +27,7 @@
 
 
 # MY STATS
+[![prime-jd GitHub stats](https://github-readme-stats.vercel.app/api?username=prime-jd)](https://github.com/prime-jd/github-readme-stats)
 [![](https://raw.githubusercontent.com/prime-jd/prime-jd/master/profile-summary-card-output/aura_dark/0-profile-details.svg)](https://github.com/prime-jd?tab=repositories)
 [![](https://raw.githubusercontent.com/prime-jd/prime-jd/master/profile-summary-card-output/aura_dark/1-repos-per-language.svg)](https://github.com/prime-jd) 
 [![](https://raw.githubusercontent.com/prime-jd/prime-jd/master/profile-summary-card-output/aura_dark/2-most-commit-language.svg)](https://github.com/prime-jd)
