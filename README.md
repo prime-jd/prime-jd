@@ -28,7 +28,7 @@
 
 # MY STATS
 
-[![prime-jd GitHub stats](https://github-readme-stats.vercel.app/api?username=prime-jd)](https://github.com/prime-jd/github-readme-stats)
+[![prime-jd GitHub stats](https://github-readme-stats.vercel.app/api?username=prime-jd)](https://github.com/prime-jd/github-readme-stats)<span> <img src="https://clone-phi-two.vercel.app/leetcode/_Ravi-2022" height="200" width="200">
 [![](https://raw.githubusercontent.com/prime-jd/prime-jd/master/profile-summary-card-output/aura_dark/0-profile-details.svg)](https://github.com/prime-jd?tab=repositories)
 [![](https://raw.githubusercontent.com/prime-jd/prime-jd/master/profile-summary-card-output/aura_dark/1-repos-per-language.svg)](https://github.com/prime-jd) 
 [![](https://raw.githubusercontent.com/prime-jd/prime-jd/master/profile-summary-card-output/aura_dark/2-most-commit-language.svg)](https://github.com/prime-jd)
