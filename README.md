@@ -1,4 +1,4 @@
-<h1 align="center"><a style="text-decorations:none; color:white" href="https://www.primejd9.wordpress.com">PRIME-JD</a></h1>
+<h1 align="center"><a style="text-decorations:none; color:white" href="https://prime-jd.vercel.app">PRIME-JD</a></h1>
  <div align="center"><img align="center" height="250" width="250" src="https://res.cloudinary.com/dooks54nr/image/upload/w_1000,c_fill,ar_1:1,g_auto,r_max,bo_5px_solid_red,b_rgb:262c35/v1720105663/21156_lszxj0.jpg"></div>
 <h1 align="center"><a href="https://prime-jd.vercel.app">Hi, I'm Ravi Shankar Tripathi 👋</a></h1>
 
