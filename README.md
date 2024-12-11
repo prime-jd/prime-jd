@@ -23,7 +23,7 @@
     <img alt="wordpress" title="wordpress" height="48" width="48" src="https://cdn.simpleicons.org/wordpress"></a>
 </p>
 
-[![prime's GitHub stats](https://github-readme-stats.vercel.app/api?username=primr-jd)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 # MY STATS
